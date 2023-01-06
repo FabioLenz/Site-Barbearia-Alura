@@ -1,0 +1,11 @@
+footer {
+    text-align: center;
+    background: url("cabecalho-rodape/bg.jpg");
+    padding: 40px 0;
+}
+
+.direitos-rodape {
+    color: #ffffff;
+    font-size: 13px;
+    margin-top: 20px;
+}

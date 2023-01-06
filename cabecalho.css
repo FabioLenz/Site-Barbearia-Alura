@@ -1,0 +1,47 @@
+header {
+    background: #bbbbbb;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.lista-cabecalho {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+.itens-cabecalho {
+    display: inline;
+    margin-left: 15px;
+}
+
+.links-cabecalho {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+.links-cabecalho:hover {
+    color: #777777;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 480px) {
+   .caixa {
+    width: auto;
+   } 
+   h1 {
+    text-align: center;
+   }
+
+   .lista-cabecalho {
+    position: static;
+   }
+}
