@@ -1,7 +1,5 @@
 # Site Barbearia Alura
 
-!(https://img.shields.io/static/v1?label=last-update&message=01/2023&color=blue)
-
 Olá, este é o meu primeiro projeto postado aqui no Github. Seja bem-vindo!  
 A proposta do projeto é apresentar um site para uma barbearia fictícia que damos o nome de Barbearia Alura. Todo o projeto foi desenvolvido juntamente com o professor **Pedro Marins**, da Alura.  
 > O site foi desenvolvido utilizando as linguagens **HTML** e **CSS**.
